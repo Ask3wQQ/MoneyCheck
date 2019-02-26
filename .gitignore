@@ -1,2 +1,5 @@
 # Ignore db files
 *.db
+
+#Ignore idea folder
+.idea/*
