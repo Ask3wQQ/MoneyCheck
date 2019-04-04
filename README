@@ -1,0 +1,9 @@
+# Money Check
+To record the income and outcome.
+
+# Generate exe file
+Use pyinstaller to generate exe file
+pyinstaller version: 3.4
+
+# To Do
+No more request.
